@@ -23,7 +23,7 @@ The application eliminates the need for physical biometric devices, promoting a 
 - Problem-solving and system thinking
 
 ## Screenshots
-(Add screenshots or mockups here)
+
 
 ## Note
 This project was developed in an online Swift environment due to system limitations and represents a conceptual implementation of biometric attendance systems.
@@ -33,3 +33,5 @@ This project was developed in an online Swift environment due to system limitati
 - Admin dashboard for monitoring
 - Cloud synchronization
 - Enhanced security layers
+
+(Developed in an online Swift environment due to system limitations.)
